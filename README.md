@@ -3,7 +3,7 @@
 This is a strapi backend for DJ Events app.
 
 
-Click the link for the [Frontend repository](https://github.com/oluwakemi-dada/dj-events-backend)
+Click the link for the [Frontend repository](https://github.com/oluwakemi-dada/dj-events-frontend)
 
 ## Getting Started
 
